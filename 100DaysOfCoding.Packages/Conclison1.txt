@@ -1,0 +1,20 @@
+﻿In diesem Projekt liegen 2 von 3 Packages die von der Roadmap empfohlen worden sind.
+dies liegt daran das ich das cross origin package durchgelesen habe und es keinen sinn macht dies hier nachzuentwicklen.
+
+Aber geben wir ein Fazit zu den packages.
+
+log4net:
+
+das log4net Package ist halt das was ich erwartet habe ein Package das sich um dein Loggin kümmert.
+es hat mich nicht reichlich überreicht macht aber sein ding gut.
+
+ninject:
+
+ich konnte mir aus dem package noch keine klaares ergebnis ziehen. dies ändert sich vll wenns ans unit testing geht.
+dort soll man mehr damit arbeiten können und dort sollte es auch dir arbeit abnehmen.
+
+cross origin:
+dies finde ich sehr interessant laut Microsoft docs hilft es dir performance aufzuteilen und rechenleistungen an den
+server zu schicken damit er diese übernimmt. dies hilft nicht nur der performance sondern sorgt dafür das auch schwache pc´s im 
+web normal surfen können.
+
