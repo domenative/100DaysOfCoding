@@ -13,6 +13,10 @@ namespace _100DaysOfCoding.Packages
 
         static void Main(string[] args)
         {
+        }
+
+        private static void WithNinject()
+        {
             StandardKernel kernel = new StandardKernel();
             kernel.Load(Assembly.GetExecutingAssembly());
             IMailSender mailSender = kernel.Get<IMailSender>();
